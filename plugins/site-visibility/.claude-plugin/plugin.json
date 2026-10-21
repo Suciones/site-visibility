@@ -1,0 +1,26 @@
+{
+  "name": "site-visibility",
+  "version": "1.0.0",
+  "description": "Pre- and post-launch website visibility audits and fixes: SEO, LLMO/AI search, llms.txt, meta & social cards, favicon and Google result preview, robots.txt, sitemap, structured data, Search Console, Bing Webmaster Tools and IndexNow.",
+  "author": {
+    "name": "Andrei Suciu",
+    "url": "https://github.com/Suciones"
+  },
+  "keywords": [
+    "seo",
+    "llmo",
+    "geo",
+    "llms.txt",
+    "sitemap",
+    "robots.txt",
+    "open-graph",
+    "favicon",
+    "search-console",
+    "bing",
+    "indexnow",
+    "schema"
+  ],
+  "homepage": "https://github.com/Suciones/site-visibility",
+  "repository": "https://github.com/Suciones/site-visibility",
+  "license": "MIT"
+}

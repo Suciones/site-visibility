@@ -1,0 +1,16 @@
+{
+  "name": "site-visibility-tools",
+  "description": "Website visibility tools for Claude Code: SEO, LLMO, llms.txt, social cards, favicon, sitemap, Search Console and Bing setup.",
+  "owner": {
+    "name": "Andrei Suciu",
+    "url": "https://github.com/Suciones"
+  },
+  "plugins": [
+    {
+      "name": "site-visibility",
+      "source": "./plugins/site-visibility",
+      "description": "Audit and fix a website's search & AI visibility before and after launch.",
+      "version": "1.0.0"
+    }
+  ]
+}
